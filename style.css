@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+}
+
+img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+body {
+    margin-top: 250px;
+}
